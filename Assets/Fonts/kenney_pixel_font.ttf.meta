@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1831c0fd0d795914caf779eb2ef1a2e5
+guid: 035eef60ec09be449934559f46dc9258
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Funtype
+  - Kenney Pixel
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
