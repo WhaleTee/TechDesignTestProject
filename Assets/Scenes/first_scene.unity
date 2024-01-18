@@ -376,11 +376,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1095036149897030946, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1095036149897030947, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1095036149897030947, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
@@ -428,6 +428,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1095036149897030947, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1095036149897030947, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 1095036149897030947, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
@@ -522,6 +526,10 @@ PrefabInstance:
       propertyPath: sceneName
       value: second_scene
       objectReference: {fileID: 0}
+    - target: {fileID: 1095036149897030951, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 705084031}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08dbee0c071648b4b978c133b883ad5c, type: 3}
 --- !u!224 &705084030 stripped
